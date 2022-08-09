@@ -1,3 +1,3 @@
-# Photo Gallery 
+# Photo gallery made by using lightbox.js
 
-https://13thspringmorning.github.io/p-gallery/
+https://13thspringmorning.github.io/Photo-Gallery/
